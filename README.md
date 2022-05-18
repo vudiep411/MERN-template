@@ -2,8 +2,8 @@
 A Template for React-Redux application with MongoDb and Express for backend
 
 # client
--**public**
---index.html
--**src**
+-**public**<br/>
+--index.html<br/>
+-**src**<br/>
 
 
