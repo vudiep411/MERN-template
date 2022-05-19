@@ -3,7 +3,7 @@ A Template for React-Redux application with MongoDb and Express for backend
 
 # client
 **public**<br/>
---index.html (your index.html file)<br/>
+-index.html (your index.html file)<br/>
 -**src**<br/>
 --**API**<br/>
 ---index.js (your API calls here. axios.get(url)...)
