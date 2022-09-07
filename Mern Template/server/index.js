@@ -15,6 +15,7 @@ app.use('/', (req, res) => {
     res.send('APP STARTED')
 })
 
+// app.use('/<yourRoute>', routes)
 
 const PORT = process.env.PORT || 5000
 
